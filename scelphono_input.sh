@@ -16,8 +16,8 @@ do
 
 cd $i
 
-mkdir SCLPHONO_Lanadau
 rm -Rf FREQCALC_Landau_Supercell
+mkdir FREQCALC_Landau_Supercell
 
 cd FREQCALC_Landau_Supercell
 
